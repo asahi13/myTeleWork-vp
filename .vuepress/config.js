@@ -21,6 +21,8 @@ module.exports = {
       ['/', 'Home'],
       ['docs/', 'Documents']
     ],
+    sidebarDepth: 1,
+    smoothScroll: true,
 
     displayAllHeaders: true,
     activeHeaderLinks: true,
