@@ -19,7 +19,8 @@ module.exports = {
     sidebar: 'auto',
     sidebar: [
       ['/', 'Home'],
-      ['docs/', 'Documents']
+      ['docs/', 'Documents'],
+      ['docs/方針', '方針']
     ],
     sidebarDepth: 1,
     smoothScroll: true,
