@@ -22,10 +22,12 @@ title: テレワークに際しての懸念
 
 
 ## ガイドライン
-- [総務省](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.soumu.go.jp/main_content/000545372.pdf&ved=2ahUKEwjx_tCtusjoAhWI-2EKHdRFCk8QFjAIegQIAhAB&usg=AOvVaw16Y7vB9qIBgdc_3mgxbyHp)
+### [総務省](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.soumu.go.jp/main_content/000545372.pdf&ved=2ahUKEwjx_tCtusjoAhWI-2EKHdRFCk8QFjAIegQIAhAB&usg=AOvVaw16Y7vB9qIBgdc_3mgxbyHp)
 
+![](/img/パターン.png)
+![](/img/クラウド有効.png)
 
-- [警視庁サイバーセキュリティ](https://www.keishicho.metro.tokyo.jp/smph/kurashi/cyber/joho/telework.html)
+### [警視庁サイバーセキュリティ](https://www.keishicho.metro.tokyo.jp/smph/kurashi/cyber/joho/telework.html)
 > 自宅のWi-Fiルータを使用するとき
 > >ファームウェアを最新のものにアップデートする。
 > ルータに欠陥があった場合、修正プログラムが配信さ> れている場合がありますので、最新のものに更新しま> しょう。
@@ -47,7 +49,7 @@ title: テレワークに際しての懸念
   - 暗号化方式は「WPA/WPA2 PSK（AES）」固定
     選択できないものは使わない
 
-- [従業員がテレワークを実施する場合のサイバーセキュリティ上の注意点](https://www.cybereason.co.jp/blog/security/4527/)
+### [従業員がテレワークを実施する場合のサイバーセキュリティ上の注意点](https://www.cybereason.co.jp/blog/security/4527/)
 > ファイアウォール
 > > ファイアウォールは、企業のシステムに侵入する脅威を防ぐための防御線として機能するものであり、通信用のポートを閉じることで、従業員のデバイスとインターネット間に防護壁を作成します。これにより、悪意あるプログラムの侵入を防止できると同時に、従業員のデバイスからのデータ流出を防ぐことができます。デバイスのオペレーティングシステムには、通常、組み込み型のファイアウォールが含まれています。
 >
