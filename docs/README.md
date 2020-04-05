@@ -2,9 +2,7 @@
 title: テレワークに際しての懸念
 ---
 # テレワークに際しての懸念
-
-
-## 敵
+## 重要リスク
 - 情報漏洩
 - ウィルス(マイルウェア)感染
 - 紛失・破損
@@ -12,16 +10,14 @@ title: テレワークに際しての懸念
 ## 懸念
 - 自宅PC
 - 自宅ルーター
-- FireWall無し
+- FireWall無しのインターネット閲覧
 
 ## その他懸念
 - 勤務管理
-- 作業効率
-- 教育効率
+- 作業・教育効率
 - 作業場所の確保
 
-
-## ガイドライン
+## 各種ガイドライン
 ### [総務省](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.soumu.go.jp/main_content/000545372.pdf&ved=2ahUKEwjx_tCtusjoAhWI-2EKHdRFCk8QFjAIegQIAhAB&usg=AOvVaw16Y7vB9qIBgdc_3mgxbyHp)
 
 ![](/img/パターン.png)
