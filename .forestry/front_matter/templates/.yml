@@ -1,4 +1,7 @@
 ---
-label: 試し
+label: お試し
 hide_body: false
-fields: []
+fields:
+- type: text
+  name: title
+  label: title
